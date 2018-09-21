@@ -1,3 +1,5 @@
 config-service: 8000
 discovery-service: 8100
+
 license-service: 9000 9001 9002
+organization-service: 9100 9101 9102
